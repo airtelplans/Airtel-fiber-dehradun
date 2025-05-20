@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://airtelplans.github.io/Airtel-fiber-dehradun/sitemap.xml
